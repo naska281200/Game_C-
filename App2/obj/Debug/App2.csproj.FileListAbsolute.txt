@@ -1,0 +1,35 @@
+H:\GeekBrains\OOPLevel1\Lesson3\App2\bin\Debug\App2.exe.config
+H:\GeekBrains\OOPLevel1\Lesson3\App2\bin\Debug\App2.exe
+H:\GeekBrains\OOPLevel1\Lesson3\App2\bin\Debug\App2.pdb
+H:\GeekBrains\OOPLevel1\Lesson3\App2\obj\Debug\App2.csprojAssemblyReference.cache
+H:\GeekBrains\OOPLevel1\Lesson3\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+H:\GeekBrains\OOPLevel1\Lesson3\App2\obj\Debug\App2.exe
+H:\GeekBrains\OOPLevel1\Lesson3\App2\obj\Debug\App2.pdb
+C:\Users\Анастасия\Desktop\Lesson3\App2\bin\Debug\App2.exe.config
+C:\Users\Анастасия\Desktop\Lesson3\App2\bin\Debug\App2.exe
+C:\Users\Анастасия\Desktop\Lesson3\App2\bin\Debug\App2.pdb
+C:\Users\Анастасия\Desktop\Lesson3\App2\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Lesson3\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Lesson3\App2\obj\Debug\App2.exe
+C:\Users\Анастасия\Desktop\Lesson3\App2\obj\Debug\App2.pdb
+C:\Users\Анастасия\Desktop\Lesson3 abstract\App2\bin\Debug\App2.exe.config
+C:\Users\Анастасия\Desktop\Lesson3 abstract\App2\bin\Debug\App2.exe
+C:\Users\Анастасия\Desktop\Lesson3 abstract\App2\bin\Debug\App2.pdb
+C:\Users\Анастасия\Desktop\Lesson3 abstract\App2\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Lesson3 abstract\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Lesson3 abstract\App2\obj\Debug\App2.exe
+C:\Users\Анастасия\Desktop\Lesson3 abstract\App2\obj\Debug\App2.pdb
+C:\Users\Анастасия\Desktop\Lesson3 игра\App2\bin\Debug\App2.exe.config
+C:\Users\Анастасия\Desktop\Lesson3 игра\App2\bin\Debug\App2.exe
+C:\Users\Анастасия\Desktop\Lesson3 игра\App2\bin\Debug\App2.pdb
+C:\Users\Анастасия\Desktop\Lesson3 игра\App2\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Lesson3 игра\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Lesson3 игра\App2\obj\Debug\App2.exe
+C:\Users\Анастасия\Desktop\Lesson3 игра\App2\obj\Debug\App2.pdb
+C:\Users\Анастасия\Desktop\институт 2 курс\Lesson3 игра\App2\bin\Debug\App2.exe.config
+C:\Users\Анастасия\Desktop\институт 2 курс\Lesson3 игра\App2\bin\Debug\App2.exe
+C:\Users\Анастасия\Desktop\институт 2 курс\Lesson3 игра\App2\bin\Debug\App2.pdb
+C:\Users\Анастасия\Desktop\институт 2 курс\Lesson3 игра\App2\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\институт 2 курс\Lesson3 игра\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\институт 2 курс\Lesson3 игра\App2\obj\Debug\App2.exe
+C:\Users\Анастасия\Desktop\институт 2 курс\Lesson3 игра\App2\obj\Debug\App2.pdb
